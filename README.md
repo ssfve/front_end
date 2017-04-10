@@ -8,7 +8,7 @@
 
 <a name="ascii code"></a>
 # ascii code
-![ascii]()
+![ascii](7e3e6709c93d70cf078fe06dfcdcd100baa12b5c.jpg)
 
 
 

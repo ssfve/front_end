@@ -1,18 +1,18 @@
 
-<a href="# front end">1</a>  
-<a href="# ascii code">2</a>
+<a href="#front end">Front End</a>  
+<a href="#ascii code">ASCII Code</a>
 
 
 
 
 
-<a name=1></a>
+<a name='ascii code'></a>
 # ascii code
 ![ascii](7e3e6709c93d70cf078fe06dfcdcd100baa12b5c.jpg)
 
 
 
-<a name=2></a>
+<a name='front end'></a>
 # front_end
 A repository dedicated to front end development
 

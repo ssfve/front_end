@@ -1,7 +1,7 @@
 
 <a href="#front end">Front End</a>  
-<a href="#ascii code">ASCII Code</a>
-<a href="#email pattern">Email Pattern</a>
+<a href="#ascii code">ASCII Code</a>  
+<a href="#email pattern">Email Pattern</a>  
 
 <a name='email pattern'></a>
 # Email Pattern

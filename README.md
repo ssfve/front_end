@@ -2,6 +2,16 @@
 <a href="#front end">Front End</a>  
 <a href="#ascii code">ASCII Code</a>  
 <a href="#email pattern">Email Pattern</a>  
+<a href="#frontEnd">Front End 2.0</a>  
+<a href="#mac">Mac Commands</a>  
+
+<a name='mac'></a>
+# Mac Commands
+![mac](mac.jpg)
+
+<a name='frontEnd'></a>
+# Front End 2.0
+![frontend](frontend.jpg)
 
 <a name='email pattern'></a>
 # Email Pattern

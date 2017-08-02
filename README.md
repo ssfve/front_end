@@ -4,6 +4,11 @@
 <a href="#email pattern">Email Pattern</a>  
 <a href="#frontEnd">Front End 2.0</a>  
 <a href="#mac">Mac Commands</a>  
+<a href="#ml">Machine Learning</a>  
+
+<a name='ml'></a>
+# Machine Learning
+![ml](machine-learning.jpg)
 
 <a name='mac'></a>
 # Mac Commands
@@ -17,12 +22,9 @@
 # Email Pattern
 ![email](eb52001djw1emf3a32oa4j20pv09macb.jpg)
 
-
 <a name='ascii code'></a>
 # ASCII Code
 ![ascii](7e3e6709c93d70cf078fe06dfcdcd100baa12b5c.jpg)
-
-
 
 <a name='front end'></a>
 # Front End
